@@ -73,25 +73,10 @@ My focus is on developing expertise in threat detection, incident response, and 
 
 ## 📂 Projects
 
-### **Detection Lab**  
-- **Focus:** Network traffic monitoring, log analysis, and incident detection  
-- **Tools:** Splunk, Wireshark, Elastic  
-- **Outcome:** Improved detection capabilities and reduced response times.  
-
-### **GRC Framework Lab**  
-- **Focus:** Developing security policies aligned with NIST and ISO 27001 frameworks  
-- **Tools:** RiskWatch, Compliance Tracker  
-- **Outcome:** Created actionable security policies and risk management procedures.  
-
-### **SOC Automation Project**  
-- **Focus:** Automating alert triaging and incident response workflows  
-- **Tools:** Shuffle SOAR, Splunk, TheHive  
-- **Outcome:** Reduced manual intervention and improved SOC efficiency by 40%.  
-
-### **Security Audit**  
-- **Focus:** Identifying and mitigating vulnerabilities in a simulated corporate network  
-- **Tools:** Nessus, Nmap, Burp Suite  
-- **Outcome:** Enhanced overall security posture by addressing high-priority risks.  
+- Detection Lab
+- GRC Framework Lab
+- SOC Automation Project
+- Security Audit
 
 ---
 
