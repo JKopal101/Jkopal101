@@ -76,7 +76,7 @@ My focus is on developing expertise in threat detection, incident response, and 
 
 ## 📂 Projects
 
-- Conducting a Security Audit
+- <a href= https://github.com/JKopal101/Conducting-a-Security-Audit> Conducting a Security Audit </a>
 - Detection Lab
 - GRC Framework Lab
 - SOC Automation Project
