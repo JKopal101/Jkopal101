@@ -27,6 +27,8 @@ My focus is on developing expertise in threat detection, incident response, and 
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| `INFOSEC`, `NIST Risk Management Framework`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `CISSP`, `CIA triad`                  | Conducting a Security Audit|
+
 
 
 
