@@ -21,13 +21,13 @@ My focus is on developing expertise in threat detection, incident response, and 
 
 | **Skill**                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| `INFOSEC`, `NIST Risk Management Framework`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `CISSP`, `CIA triad`                  | Conducting a Security Audit|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-| `INFOSEC`, `NIST Risk Management Framework`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `CISSP`, `CIA triad`                  | Conducting a Security Audit|
 
 
 
@@ -56,18 +56,19 @@ My focus is on developing expertise in threat detection, incident response, and 
 
 ### **Completed Training**
 
-- **[TCM Security: Practical Ethical Hacking](https://tcm-sec.com/)**  
-  - Focused on offensive security, penetration testing, and ethical hacking fundamentals.  
-  - Topics covered: Reconnaissance, scanning, exploitation, post-exploitation, and report writing.  
+- **[TCM Security: Security Operations (SOC) 101](https://tcm-sec.com/)**  
+  
 
 - **[Google Cybersecurity Certificate (Coursera)](https://www.coursera.org/)**  
   - Comprehensive introduction to cybersecurity concepts, tools, and best practices.  
   - Topics covered: Security architecture, risk management, and cloud security fundamentals.  
 
-- **[BrainStation Cybersecurity Program](https://brainstation.io/)**  
-  - Hands-on training with projects focused on offensive security, defensive practices, and security automation.  
-  - Key projects: SOC automation, incident response workflows, and policy development.  
+- **[BrainStation Cybersecurity Program - Capstone Project](https://brainstation.io/)**  
+  - Conducted a NIST-based risk assessment, identifying vulnerabilities in data security and access control.
+  - Recommended encryption, MFA, SIEM tools, and Zero Trust Architecture to mitigate risks.
+  - Developed an Incident Response Plan (IRP) and security training to enhance resilience.
 
+  
 ### **Planned Certifications**
 - **CompTIA Security+**, **CompTIA Network+**, **CISSP**  
 - **ISO 27001 Lead Implementer**  
@@ -75,6 +76,7 @@ My focus is on developing expertise in threat detection, incident response, and 
 
 ## 📂 Projects
 
+- Conducting a Security Audit
 - Detection Lab
 - GRC Framework Lab
 - SOC Automation Project
