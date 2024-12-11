@@ -21,8 +21,8 @@ My focus is on developing expertise in threat detection, incident response, and 
 
 | **Skill**                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|`INFOSEC`, `NIST Risk Management Framework`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `CISSP`, `CIA triad`           | <a href= https://github.com/JKopal101/Conducting-a-Security-Audit> Conducting a Security Audit </a>|
-|`NIST Risk Management Framework`, `NIST Cybersecurity Framework`, `Incident Response Playbooks` | <a href="https://github.com/JKopal101/Retail-Cyber-Defence-Strategy">Retail Cyber Defence Strategy</a>|
+|`INFOSEC`, `NIST Risk Management Framework`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `CIA triad`, `Risk Evaluation`, `Compliance Review`           | <a href= https://github.com/JKopal101/Conducting-a-Security-Audit> Conducting a Security Audit </a>|
+|`NIST Risk Management Framework`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `Zero-Trust Architectures`, `Vulnerability Management,` `Access Control` | <a href="https://github.com/JKopal101/Retail-Cyber-Defence-Strategy">Retail Cyber Defence Strategy</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
