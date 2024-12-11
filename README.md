@@ -1,6 +1,6 @@
 # Hello, I'm James!
 
-I'm passionate about technology and problem-solving, with expertise in Cybersecurity, Linux, Python, and SQL. I'm currently advancing my skills to transition into a role in Cybersecurity
+I'm passionate about technology and problem-solving, with expertise in Cybersecurity, Linux, Python, and SQL. I'm currently advancing my skills to transition into a role in Cybersecurity.
 
 
 ## 🎯 Objective
