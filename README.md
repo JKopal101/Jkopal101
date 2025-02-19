@@ -5,7 +5,7 @@ Thanks for stopping by! This is my space where I explore, learn, and share my jo
 ## 🚀 Portfolio Website
 Check out my portfolio: [jkopal101.github.io](https://jkopal101.github.io)
 
-## 🌱 Currently learning:
+## 🌱 Currently Learning:
 - Linux
 - Python
 - Security Automation
@@ -13,7 +13,7 @@ Check out my portfolio: [jkopal101.github.io](https://jkopal101.github.io)
 - Pen Testing
 - Anything Cyber!
 
-## 🎯 Working towards:
+## 🎯 Working Towards:
 - CompTIA Security+
 - CompTIA Network+
 - CISSP (long-term goal)
