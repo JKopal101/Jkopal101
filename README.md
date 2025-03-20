@@ -23,7 +23,7 @@ Thanks for stopping by! This is my space where I explore, learn, and share my jo
 ---
 
 Feel free to connect with me or check out my work!
-<br><br><br>
+<br><br>
 <a href="https://www.linkedin.com/in/james-kopal/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ---
