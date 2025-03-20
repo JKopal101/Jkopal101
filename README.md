@@ -3,7 +3,6 @@
 Thanks for stopping by! This is my space where I explore, learn, and share my journey in Cybersecurity.
 
 ## 🚀 Portfolio Website
-<br>
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-blue?style=for-the-badge)](https://jkopal101.github.io)
 
