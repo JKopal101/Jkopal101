@@ -2,7 +2,7 @@
 
 ### Thanks for stopping by!
 
-This is my space where I explore, learn, and share my journey in Cybersecurity. I’m passionate about tackling complex security challenges through hands-on projects. From analyzing cloud migrations to building a live honeynet and SOC in Azure, I enjoy diving deep into the ever-evolving landscape of cybersecurity. Right now, I’m focusing on mastering Linux, Python, security automation, threat hunting, and pen testing. I'm also actively working towards certifications like CompTIA Security+ and Network+, with a long-term goal of achieving CISSP.
+This is my space where I explore, learn, and share my journey in Cybersecurity. I’m passionate about solving real-world security challenges through hands-on experience. Whether it’s building a vulnerability management program, analyzing phishing incidents, or deploying threat detection with Suricata, I love diving into projects that mirror real scenarios. Right now, I’m focused on expanding my skills in areas like Linux, Python, threat hunting, security automation, and GRC. I’m also actively working toward certifications such as CompTIA Security+ and Network+, with a long-term goal of achieving CISSP.
 
 ---
 
