@@ -13,7 +13,7 @@ This is my space where I explore, learn, and share my journey in Cybersecurity. 
   
 
 - #### 🚨 Threat Hunting & Security Operations
-  **[Threat Hunting Scenario: Tor](href="https://github.com/JKopal101/threat-hunting-scenario-tor).**
+  - **[Threat Hunting Scenario: Tor](https://github.com/JKopal101/threat-hunting-scenario-tor).**
 
 
 
