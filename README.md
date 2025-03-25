@@ -8,18 +8,18 @@ This is my space where I explore, learn, and share my journey in Cybersecurity. 
 
 ### 👨‍💻 Key Projects:
 
-- #### ⚠️ Vulnerability Management Projects
+- ### ⚠️ Vulnerability Management Projects
   - **[Full Vulnerability Management Program Implementation](https://github.com/trevinoparker7/vulnerability-management-program)**  
   
 
-- #### 🚨 Threat Hunting & Security Operations
+- ### 🚨 Threat Hunting & Security Operations
   - **[Threat Hunting Scenario: Tor Browser Usage](https://github.com/JKopal101/threat-hunting-scenario-tor)**
   - **[Incident Response: Email Phishing Analysis](https://github.com/JKopal101/email-phishing-analysis)**
   - **[Threat Hunting Scenario: Networking Traffic with Suricata](https://github.com/JKopal101/network-traffic-with-suricata)**
 
 
 
-- #### 📜 Governance, Risk, and Compliance (GRC)
+- ### 📜 Governance, Risk, and Compliance (GRC)
   -  **[Retail Cyber Defence Strategy](https://github.com/JKopal101/Retail-Cyber-Defence-Strategy)**
           
 ---
