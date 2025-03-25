@@ -6,7 +6,7 @@ This is my space where I explore, learn, and share my journey in Cybersecurity. 
 
 ---
 
-## 👨‍💻 Key Projects
+## 👨‍💻 Key Projects:
 
 - **Azure / Cloud Cybersecurity**
   - [🔗 Creating a Live SOC / Honeynet in Azure](https://github.com/james-watson-iii/Azure-SOC-Honeynet)
@@ -19,7 +19,7 @@ This is my space where I explore, learn, and share my journey in Cybersecurity. 
 
 ---
 
-## 🌐 Explore More
+### 🌐 Explore More
 
 Want to see all my projects in one place? Visit my GitHub Pages site below:
 
@@ -27,7 +27,7 @@ Want to see all my projects in one place? Visit my GitHub Pages site below:
 
 ---
 
-## 📫 Connect with Me
+### 📫 Connect with Me
 
 <a href="https://www.linkedin.com/in/james-kopal/">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
