@@ -16,11 +16,12 @@ This is my space where I explore, learn, and share my journey in Cybersecurity. 
   - **[Threat Hunting Scenario: Tor Browser Usage](https://github.com/JKopal101/threat-hunting-scenario-tor)**
   - **[Incident Response: Email Phishing Analysis](https://github.com/JKopal101/email-phishing-analysis)**
   - **[Threat Hunting Scenario: Networking Traffic with Suricata](https://github.com/JKopal101/network-traffic-with-suricata)**
-
+    
 
 
 - #### 📜 Governance, Risk, and Compliance (GRC)
   -  **[Retail Cyber Defence Strategy](https://github.com/JKopal101/Retail-Cyber-Defence-Strategy)**
+  -  **[Governance, Risk and Compliance Capstone Project using NIST 2.0 Framework](https://github.com/JKopal101/Conducting-a-Security-Audit)**
           
 ---
 
