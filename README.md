@@ -2,6 +2,14 @@
 
 ### Thanks for stopping by! This is my space where I explore, learn, and share my journey in Cybersecurity. I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From examining a cloud migration to vulnerability management and even creating a honeynet and SOC in the cloud, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity
 
+  <h2>👨‍💻 Key Projects:</h2>
+
+- <b>Azure / Cloud Cybersecurity</b>
+  - [Creating a Live SOC / Honeynet in Azure](https://github.com/james-watson-iii/Azure-SOC-Honeynet)
+- <b>Vulnerability Management</b>
+  - [Vulnerability Management, Detection, and Remediation in Nessus](https://github.com/james-watson-iii/Vulnerability-Management)
+- <b>Replatforming Cloud Migration Analysis</b>
+  - [On-Premises to Cloud Migration Analysis](https://github.com/james-watson-iii/Cloud-Migration-Analysis/)
 
 ## 🌱 Currently Learning:
 - Linux
@@ -18,8 +26,8 @@
 
 ---
 
-Feel free to connect with me or check out my work! My main Portfolio Website 🚀: 
-
+Feel free to connect with me or check out my work! You can find the list of all my projects here:
+### My Website 🚀
 [![Portfolio](https://img.shields.io/badge/-Portfolio-blue?style=for-the-badge)](https://jkopal101.github.io)
 <br>
 
