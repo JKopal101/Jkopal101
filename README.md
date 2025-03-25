@@ -18,8 +18,10 @@ This is my space where I explore, learn, and share my journey in Cybersecurity. 
 
 - #### 🚨 Threat Hunting & Security Operations
 
-- ####
-
+- #### 📜 Governance, Risk, and Compliance (GRC)
+  -  **[🔗 Retail Cyber Defence Strategy](https://github.com/JKopal101/Retail-Cyber-Defence-Strategy)**
+          
+---
 
 ### 🌐 Explore More
 
