@@ -29,7 +29,7 @@ This is my space where I explore, learn, and share my journey in Cybersecurity. 
 
 Want to see all my projects in one place? Visit my GitHub Pages site below:
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=github&logoColor=white)](https://jkopal101.github.io/projects)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=github&logoColor=white)](https://jkopal101.github.io)
 
 
 
