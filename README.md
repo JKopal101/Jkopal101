@@ -32,7 +32,7 @@ Feel free to connect with me or check out my work! You can find the list of all 
 <br>
 
 <a href="https://www.linkedin.com/in/james-kopal/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 ---
 
 
