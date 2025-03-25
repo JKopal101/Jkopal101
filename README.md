@@ -2,7 +2,7 @@
 
 ### Thanks for stopping by!
 
-🔍 This is my space where I explore, learn, and share my journey in Cybersecurity. I’m passionate about tackling complex security challenges through hands-on projects. From analyzing cloud migrations to building a live honeynet and SOC in Azure, I enjoy diving deep into the ever-evolving landscape of cybersecurity. Right now, I’m focusing on mastering Linux, Python, security automation, threat hunting, and pen testing. I'm also actively working towards certifications like CompTIA Security+ and Network+, with a long-term goal of achieving CISSP.
+This is my space where I explore, learn, and share my journey in Cybersecurity. I’m passionate about tackling complex security challenges through hands-on projects. From analyzing cloud migrations to building a live honeynet and SOC in Azure, I enjoy diving deep into the ever-evolving landscape of cybersecurity. Right now, I’m focusing on mastering Linux, Python, security automation, threat hunting, and pen testing. I'm also actively working towards certifications like CompTIA Security+ and Network+, with a long-term goal of achieving CISSP.
 
 
 
@@ -16,9 +16,9 @@
   - **[🔗 Full Vulnerability Management Program Implementation](https://github.com/trevinoparker7/vulnerability-management-program)**  
   - [🔗 Vulnerability Management, Detection, and Remediation with Nessus](https://github.com/james-watson-iii/Vulnerability-Management)
 
-- **Cloud Migration Analysis**
-  - [🔗 On-Premises to Cloud Migration Review](https://github.com/james-watson-iii/Cloud-Migration-Analysis/)
+- #### 🚨 Threat Hunting & Security Operations
 
+- ####
 
 
 ## 🌐 Explore More
