@@ -8,15 +8,15 @@ This is my space where I explore, learn, and share my journey in Cybersecurity. 
 
 ### 👨‍💻 Key Projects:
 
-- **Azure / Cloud Cybersecurity**
-  - [🔗 Creating a Live SOC / Honeynet in Azure](https://github.com/james-watson-iii/Azure-SOC-Honeynet)
-
-
 - #### ⚠️ Vulnerability Management Projects
   - **[Full Vulnerability Management Program Implementation](https://github.com/trevinoparker7/vulnerability-management-program)**  
-  - [Vulnerability Management, Detection, and Remediation with Nessus](https://github.com/james-watson-iii/Vulnerability-Management)
+  
 
 - #### 🚨 Threat Hunting & Security Operations
+  **[Threat Hunting Scenario: Tor](href="https://github.com/JKopal101/threat-hunting-scenario-tor).**
+
+
+
 
 - #### 📜 Governance, Risk, and Compliance (GRC)
   -  **[Retail Cyber Defence Strategy](https://github.com/JKopal101/Retail-Cyber-Defence-Strategy)**
