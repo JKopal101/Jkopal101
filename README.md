@@ -18,8 +18,8 @@ Thanks for stopping by! This is my space where I explore, learn, and share my jo
 
 ---
 
-Feel free to connect with me or check out my work! My main Portfolio Website: 
-## 🚀 Portfolio Website 
+Feel free to connect with me or check out my work! My main Portfolio Website 🚀: 
+
 [![Portfolio](https://img.shields.io/badge/-Portfolio-blue?style=for-the-badge)](https://jkopal101.github.io)
 <br>
 
