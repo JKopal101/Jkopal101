@@ -11,9 +11,9 @@ This is my space where I explore, learn, and share my journey in Cybersecurity. 
 - **Azure / Cloud Cybersecurity**
   - [🔗 Creating a Live SOC / Honeynet in Azure](https://github.com/james-watson-iii/Azure-SOC-Honeynet)
 
-- **Vulnerability Management**
+
 - #### ⚠️ Vulnerability Management Projects
-- **[Full Vulnerability Management Program Implementation](https://github.com/trevinoparker7/vulnerability-management-program)**  
+  - **[Full Vulnerability Management Program Implementation](https://github.com/trevinoparker7/vulnerability-management-program)**  
   - [🔗 Vulnerability Management, Detection, and Remediation with Nessus](https://github.com/james-watson-iii/Vulnerability-Management)
 
 - **Cloud Migration Analysis**
