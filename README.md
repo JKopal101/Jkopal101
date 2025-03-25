@@ -17,7 +17,7 @@ This is my space where I explore, learn, and share my journey in Cybersecurity. 
 - **Cloud Migration Analysis**
   - [🔗 On-Premises to Cloud Migration Review](https://github.com/james-watson-iii/Cloud-Migration-Analysis/)
 
-- - - - - - - - - -
+
 
 ## 🌐 Explore More
 
@@ -25,7 +25,7 @@ Want to see all my projects in one place? Visit my GitHub Pages site below:
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=github&logoColor=white)](https://jkopal101.github.io)
 
----
+
 
 ## 📫 Connect with Me
 
