@@ -27,7 +27,7 @@ This is my space where I explore, learn, and share my journey in Cybersecurity. 
 
 ### 🌐 Explore More
 
-Check out my main website for all my projects, certifications, and more:
+Check out my main website for all my projects, certifications, blog and more:
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=github&logoColor=white)](https://jkopal101.github.io)
 
