@@ -9,7 +9,7 @@ This is my space where I explore, learn, and share my journey in Cybersecurity. 
 ### 👨‍💻 Key Projects:
 
 - #### ⚠️ Vulnerability Management Projects
-  - **[Full Vulnerability Management Program Implementation](https://github.com/trevinoparker7/vulnerability-management-program)**  
+  - **[Full Vulnerability Management Program Implementation](https://github.com/JKopal101/vulnerability-management-project)**  
   
 
 - #### 🚨 Threat Hunting & Security Operations
