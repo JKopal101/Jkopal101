@@ -2,7 +2,7 @@
 
 ### Thanks for stopping by!
 
-This is my space where I explore, learn, and share my journey in Cybersecurity. I’m passionate about solving real-world security challenges through hands-on experience. Whether it’s building a vulnerability management program, analyzing phishing incidents, or deploying threat detection with Suricata, I love diving into projects that mirror real scenarios. Right now, I’m focused on expanding my skills in areas like Linux, Python, threat hunting, security automation, and GRC. I’m also actively working toward certifications such as CompTIA Security+ and Network+, with a long-term goal of achieving CISSP.
+This is my space where I explore, learn, and share my journey in Cybersecurity. I’m passionate about solving real-world security challenges through hands-on experience. Whether it’s building a vulnerability management program, analyzing phishing incidents, or deploying threat detection with Suricata, I love diving into projects that mirror real scenarios. Right now, I’m focused on expanding my skills in areas like Linux, Python, threat hunting, vulnerability management, security automation, and GRC. I’m also actively working toward certifications such as CompTIA Security+ and Network+, with a long-term goal of achieving CISSP.
 
 ---
 
