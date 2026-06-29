@@ -1,8 +1,7 @@
 # Hi, I’m James! 👋 Welcome to my GitHub
 
-### Thanks for stopping by!
 
-This is my space where I explore, learn, and share my journey in Cybersecurity and programming. I’m passionate about solving real-world security challenges through hands-on experience. Whether it’s building a vulnerability management program, analyzing phishing incidents, or deploying threat detection with Suricata, I love diving into projects that mirror real scenarios. Right now, I’m focused on expanding my skills in areas like Linux, Python, threat hunting, vulnerability management, security automation, and GRC. I’m also actively working toward certifications such as CompTIA Security+ and Network+, with a long-term goal of achieving CISSP.
+Civil Engineer transitioning into Cybersecurity — combining technical documentation and risk assessment skills with hands-on SOC, GRC, and threat detection experience. Passionate about bridging operational technology and security.
 
 ---
 
