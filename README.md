@@ -1,7 +1,7 @@
 # Hi, I’m James! 👋 Welcome to my GitHub
 
 
-Civil Engineer transitioning into Cybersecurity — combining technical documentation and risk assessment skills with hands-on SOC, GRC, and threat detection experience. Passionate about bridging operational technology and security.
+Civil Engineer transitioning into Cybersecurity. I combine technical documentation and risk assessment skills with hands-on SOC, GRC, and threat detection experience. Passionate about bridging operational technology and security.
 
 ---
 
