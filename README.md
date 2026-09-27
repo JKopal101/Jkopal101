@@ -33,7 +33,7 @@ Check out my main website for all my projects, certifications, blog and more:
 
 
 
-### 📫 Connect with Me
+### Connect with Me
 
 <a href="https://www.linkedin.com/in/james-kopal/">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
