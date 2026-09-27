@@ -1,17 +1,17 @@
-# Hi, I’m James! 👋 Welcome to my GitHub
+# Hi, I’m James!
 
 
 Civil Engineer transitioning into Cybersecurity. I combine technical documentation and risk assessment skills with hands-on SOC, GRC, and threat detection experience. Passionate about bridging operational technology and security.
 
 ---
 
-### 👨‍💻 Key Projects:
+### Key Projects:
 
-- #### ⚠️ Vulnerability Management Projects
+- #### Vulnerability Management Projects
   - **[Full Vulnerability Management Program Implementation](https://github.com/JKopal101/vulnerability-management-project)**  
   
 
-- #### 🚨 Threat Hunting & Security Operations
+- #### Threat Hunting & Security Operations
   - **[Threat Hunting Scenario: Tor Browser Usage](https://github.com/JKopal101/threat-hunting-scenario-tor)**
   - **[Incident Response: Email Phishing Analysis](https://github.com/JKopal101/email-phishing-analysis)**
   - **[Threat Hunting Scenario: Networking Traffic with Suricata](https://github.com/JKopal101/network-traffic-with-suricata)**
@@ -25,7 +25,7 @@ Civil Engineer transitioning into Cybersecurity. I combine technical documentati
           
 ---
 
-### 🌐 Explore More
+### Explore More
 
 Check out my main website for all my projects, certifications, blog and more:
 
