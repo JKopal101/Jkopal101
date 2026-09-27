@@ -19,7 +19,7 @@ Civil Engineer transitioning into Cybersecurity. I combine technical documentati
     
 
 
-- #### 📜 Governance, Risk, and Compliance (GRC)
+- #### Governance, Risk, and Compliance (GRC)
   -  **[Retail Cyber Defence Strategy](https://github.com/JKopal101/Retail-Cyber-Defence-Strategy)**
   -  **[Governance, Risk and Compliance Capstone Project using NIST 2.0 Framework](https://github.com/JKopal101/Conducting-a-Security-Audit)**
           
